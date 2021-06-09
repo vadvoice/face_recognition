@@ -1,10 +1,7 @@
 # Environments
 .env
 .venv
-env/
-venv/
-lib/
-bin/
+env/lib
 
 # processing folders
 res
